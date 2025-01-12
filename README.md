@@ -3,7 +3,7 @@
 
 
 
-- 🔭 I’m currently working on **Quality Analyst Trainee**
+- 🔭 I was served **Quality Analyst Trainee**
 
 - 🌱 I’m currently learning **Data Science and Machine Learning**
 
