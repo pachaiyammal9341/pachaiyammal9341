@@ -5,7 +5,7 @@
 
 - 🔭 I was served **Quality Analyst Trainee**
 
-- 🌱 I’m currently learning **Data Science and Machine Learning**
+- 🌱 I’m currently learning **Data Analytics**
 
 - 📫 How to reach me **rpachaiyammal93@gmail.com**
 
